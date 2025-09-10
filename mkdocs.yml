@@ -1,0 +1,10 @@
+site_name: Programación ASIR en Java
+site_description: Materiales del curso de ASIR en Java
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
